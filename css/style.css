@@ -1231,3 +1231,13 @@ footer a:hover {
 	font-size: 11px;
 	text-transform: uppercase;
 }
+
+svg {
+  height: 96px;
+  width: 96px;
+}
+
+.devicons {
+  font-size: 96px;
+  color: teal;
+}
