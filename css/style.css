@@ -641,10 +641,10 @@ a.fa.fa-angle-down:hover{
 }
 .service-info h2{
     margin: 25px 0 0 20px;
-	text-align: left;
+	text-align: center;
 }
 .service-info p {
-  	text-align: left;
+  	text-align: center;
 	margin-bottom: 15px;
 	margin-left: 20px;
 }
@@ -675,7 +675,7 @@ a.fa.fa-angle-down:hover{
     display: block;
     height: 1px;
     width: 35px;
-    background-color: teal;
+    /*background-color: teal;*/
     margin: 10px 0 0 0;
 }
 
@@ -1133,6 +1133,7 @@ footer a:hover {
 }
 .footer-widget {
     margin-bottom: 40px;
+    text-align: center;
 }
 .footer-widget h2 {
 	color: #eee;
@@ -1147,7 +1148,7 @@ footer a:hover {
     display: block;
     height: 1px;
     width: 35px;
-    background-color: teal;
+    /*background-color: teal;*/
     margin: 10px 0 0 0;
 }
 .contact-widget span {
