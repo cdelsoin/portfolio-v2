@@ -800,7 +800,24 @@ a.fa.fa-angle-down:hover{
     padding-left: 0;
 }
 figure {
-    margin: 0
+    margin: 0;
+}
+.apps {
+  background-color: teal;
+  /*border-left: 1px solid rgba(0, 128, 128, 0.3);*/
+  /*border-right: 1px solid rgba(0, 128, 128, 0.3);*/
+}
+.app-details {
+  color: white;
+  font-size: 18px;
+}
+.app-title {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+.bold {
+  font-weight: bold;
 }
 .showcase figure {
     position: relative;
